@@ -1,1 +1,2 @@
-hello codestates
+hello codestate
+Git is good.s
